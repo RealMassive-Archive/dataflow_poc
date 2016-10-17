@@ -1,1 +1,5 @@
-git+ssh://git@github.com/GoogleCloudPlatform/DataflowPythonSDK@v0.2.7
+google-api-python-client==1.5.2
+google-cloud
+google-cloud-dataflow>=0.4.0
+requests
+git+ssh://git@github.com/inchoate/ETL@ETL-dynamic-csv-headers
